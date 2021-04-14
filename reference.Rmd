@@ -36,3 +36,7 @@ ggplot(dat, aes(x = x, y = y)) + geom_line()
 ```
 
 In the  graph \@ref(fig:Figref), it is whit noise.
+
+## Tutorial 6
+
+I added this line to see how git pull works
