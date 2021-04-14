@@ -39,4 +39,4 @@ In the  graph \@ref(fig:Figref), it is whit noise.
 
 ## Tutorial 6
 
-I added this line to see how git pull works
+I added this line to see how git pull work
