@@ -1,0 +1,12 @@
+---
+title: "Learning to reference figures, tables and sections"
+author: "ruiqi tang"
+date: "4/14/2021"
+output: bookdown::html_document2
+keep_md: true
+---
+
+```{r, eval=FALSE}
+library(tidyverse)
+```
+
